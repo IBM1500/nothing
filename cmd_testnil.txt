@@ -1,1 +1,1 @@
-findbot:all,open-Notepad.exe
+exec(findbot:all,open-Notepad.exe)
