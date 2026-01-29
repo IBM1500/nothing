@@ -1,2 +1,1 @@
-# nothing
-ibm15
+# source code of skid gui
